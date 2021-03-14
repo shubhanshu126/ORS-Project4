@@ -43,7 +43,9 @@ input[type=text] {
 </style>
 
 </head>
+
 <body>
+
     <%@include file="Header.jsp"%>
     <div style="height: 300px ;width:100%">
         <h1 align="center">Marksheet Merit List</h1>

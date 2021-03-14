@@ -17,8 +17,13 @@
 	color: black;
 	background-color: #dddddd;
 	text-align: center;
+
    /*   height: 10% */ ;
  	 padding-bottom: 14px; 
+
+	height: 8%;
+	/padding-bottom: 1px;
+
 	
 }
 .text{
@@ -29,11 +34,16 @@ color:"red";
 
 <body>
 
-<div  class="footer" style="height:25px; margin-top: ;">
+
+
+     <div  class="footer" style="height:25px; margin-top: ;">
 <hr>
 	<b>&copy;Rays Technologies</b>
 	<hr>
+
+
 </div>
+
 
 </body>
 

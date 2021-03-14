@@ -15,7 +15,11 @@
   /*  background-color:#efefef; */
   background-color: #f5f5f5;
   
+<<<<<<< HEAD
    /* height: 25%; */
+=======
+   height: 25%;
+>>>>>>> 59f793d437a2b8fa345466a54bce9893925f1ab7
 }
 </style>
   <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">

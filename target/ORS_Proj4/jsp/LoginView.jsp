@@ -40,7 +40,7 @@ th
 
 
            <H2 align="center">
-                <font color="green"> <%=ServletUtility.getSuccessMessage(request)%>
+               <font color="green"> <%=ServletUtility.getSuccessMessage(request)%>
                 </font>
             </H2>
             <H2 align="center">
@@ -86,6 +86,7 @@ th
                 </tr>
                	
 	<tr>
+	
          <th></th>
          <td colspan="2"><input type="submit" name="operation" value="<%=LoginCtl.OP_SIGN_IN %>" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
          <input type="submit" name="operation" value="<%=LoginCtl.OP_SIGN_UP %>">&nbsp;</td>
@@ -94,8 +95,18 @@ th
                 
     <tr>
          <th></th>
-         <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="<%=ORSView.FORGET_PASSWORD_CTL%>"><b>Forget my password ?</b></a>&nbsp;</td>       
+
+         <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="<%=ORSView.FORGET_PASSWORD_CTL%>"><b>Forget my password ?</b></a>&nbsp;</td>
+
+        
+
+      </tr>	
+
+       
+                
+
     </tr>	
+
 	
 	</table><%String uri=(String)request.getAttribute("uri"); %>
 	<input type="hidden" name="uri" value="<%=uri%>">
