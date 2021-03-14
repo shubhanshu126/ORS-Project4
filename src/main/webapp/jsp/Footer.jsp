@@ -35,19 +35,15 @@ color:"red";
 <body>
 
 
-<<<<<<< HEAD
+
      <div  class="footer" style="height:25px; margin-top: ;">
 <hr>
 	<b>&copy;Rays Technologies</b>
 	<hr>
-=======
-<div  class="footer" style="height:25px; margin-top: ;">
-<hr>
-	<b>&copy;Rays Technologies</b>
-	<hr>
+
 
 </div>
->>>>>>> bc96f52d7725b3b70b24c6f015dbee91bb13c36e
+
 
 </body>
 
