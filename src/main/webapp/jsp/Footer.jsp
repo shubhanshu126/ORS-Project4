@@ -17,13 +17,13 @@
 	color: black;
 	background-color: #dddddd;
 	text-align: center;
-<<<<<<< HEAD
+
    /*   height: 10% */ ;
  	 padding-bottom: 14px; 
-=======
+
 	height: 8%;
 	/padding-bottom: 1px;
->>>>>>> 59f793d437a2b8fa345466a54bce9893925f1ab7
+
 	
 }
 .text{
@@ -34,17 +34,11 @@ color:"red";
 
 <body>
 
-<<<<<<< HEAD
-<div  class="footer" style="height:25px; margin-top: ;">
+
+     <div  class="footer" style="height:25px; margin-top: ;">
 <hr>
 	<b>&copy;Rays Technologies</b>
 	<hr>
-=======
-<div  class="footer">
-
-	<b>&copy;Rays Technologies</b>
->>>>>>> 59f793d437a2b8fa345466a54bce9893925f1ab7
-</div>
 
 </body>
 
