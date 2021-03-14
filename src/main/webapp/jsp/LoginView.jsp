@@ -95,11 +95,10 @@ th
                 
     <tr>
          <th></th>
-<<<<<<< HEAD
+
          <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="<%=ORSView.FORGET_PASSWORD_CTL%>"><b>Forget my password ?</b></a>&nbsp;</td>       
-=======
-         <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="<%=ORSView.FORGET_PASSWORD_CTL%>" ><b>Forget my password ?</b></a>&nbsp;</td>       
->>>>>>> 59f793d437a2b8fa345466a54bce9893925f1ab7
+                
+
     </tr>	
 	
 	</table><%String uri=(String)request.getAttribute("uri"); %>
